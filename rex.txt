@@ -1,0 +1,2 @@
+myGit is a version control system.
+myGit is free software.
