@@ -1,2 +1,2 @@
-myGit is a version control system.
+myGit is yours  a version control system.--help
 myGit is free software.
